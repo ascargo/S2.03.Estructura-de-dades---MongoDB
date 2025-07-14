@@ -1,0 +1,40 @@
+[{
+  "_id": "G001",
+  "brand": "Ray-Ban",
+  "frame": {
+    "type": "metal",
+    "color": "silver"
+  },
+  "lenses": {
+    "left": {
+      "prescription": 2.3,
+      "color": "transparent"
+    },
+    "right": {
+      "prescription": 2,
+      "color": "transparent"
+    }
+  },
+  "price": 127,
+  "supplier_id": "S001"
+},
+{
+  "_id": "G002",
+  "brand": "Izipizi",
+  "frame": {
+    "type": "pasta",
+    "color": "blue"
+  },
+  "lenses": {
+    "left": {
+      "prescription": 0,
+      "color": "grey"
+    },
+    "right": {
+      "prescription": 0,
+      "color": "grey"
+    }
+  },
+  "price": 45.9,
+  "supplier_id": "S002"
+}]
