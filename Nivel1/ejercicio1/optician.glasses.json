@@ -1,0 +1,36 @@
+[{
+  "_id": "G002",
+  "brand": "Izipizi",
+  "price": 45.9,
+  "supplier_id": "S002",
+  "purchased_by": [],
+  "color_lense_L": "grey",
+  "color_lense_R": "grey",
+  "frame_color": "blue",
+  "frame_type": "pasta",
+  "prescription_lense_L": "0",
+  "prescription_lense_R": "0"
+},
+{
+  "_id": "G001",
+  "brand": "Ray-Ban",
+  "price": 127,
+  "supplier_id": "S001",
+  "purchased_by": [
+    {
+      "customer": {
+        "id": "C001",
+        "name": "Blanca",
+        "surname": "Barbate"
+      },
+      "timestamp": "2025-03-12T15:43:12Z",
+      "employee_id": "E001"
+    }
+  ],
+  "color_lense_L": "transparent",
+  "color_lense_R": "transparent",
+  "frame_color": "metal",
+  "frame_type": "silver",
+  "prescription_lense_L": "2.3",
+  "prescription_lense_R": "2"
+}]

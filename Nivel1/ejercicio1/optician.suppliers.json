@@ -1,0 +1,30 @@
+[{
+  "_id": "S001",
+  "name": "Manolito Gafotas.inc",
+  "address": {
+    "street": "Calle de las letras",
+    "number": 12,
+    "floor": "bajo",
+    "city": "Madrid",
+    "postal code": "08009",
+    "country": "Spain"
+  },
+  "phone": "+34912345678",
+  "NIF": "ES K98213455",
+  "fax": "+34912345678"
+},
+{
+  "_id": "S002",
+  "name": "MM: Monoculos Modernos",
+  "address": {
+    "street": "Avenida Mistral",
+    "number": 345,
+    "floor": 45,
+    "city": "Albacete",
+    "postal code": "45009",
+    "country": "Spain"
+  },
+  "phone": "+349128393438",
+  "NIF": "ES R78654455",
+  "fax": "+349128393438"
+}]

@@ -1,0 +1,73 @@
+[{
+  "_id": "G001",
+  "brand": "Ray-Ban",
+  "frame_type": "metal",
+  "frame_color": "silver",
+  "color_lense_L": "transparent",
+  "prescription_lense_L": "2.3",
+  "color_lense_R": "transparent",
+  "prescription_lense_R": "2",
+  "price": 127,
+  "supplier": {
+    "_id": "S001",
+    "name": "Manolito Gafotas.inc",
+    "address": {
+      "street": "Calle de las letras",
+      "number": 12,
+      "floor": "bajo",
+      "city": "Madrid",
+      "postal code": "08009",
+      "country": "Spain"
+    },
+    "phone": "+34912345678",
+    "NIF": "ES K98213455",
+    "fax": "+34912345678"
+  },
+  "purchased_by": [
+    {
+      "client_id": "C001",
+      "sales_id": "S001",
+      "name": "Blanca",
+      "surname": "Barbate",
+      "address": {
+        "street": "Avenida Gaudi",
+        "number": 24,
+        "floor": 4,
+        "door": "C",
+        "city": "Barcelona",
+        "postal_code": "08032",
+        "country": "Spain"
+      },
+      "phone": "+34666789987",
+      "email": "Blaba@hotmail.mail",
+      "registration_date": "2025-03-12",
+      "recommended_by": null
+    }
+  ]
+},
+{
+  "_id": "G002",
+  "brand": "Izipizi",
+  "frame_type": "pasta",
+  "frame_color": "blue",
+  "color_lense_L": "grey",
+  "prescription_lense_L": "0",
+  "color_lense_R": "grey",
+  "prescription_lense_R": "0",
+  "price": 45.9,
+  "supplier": {
+    "_id": "S002",
+    "name": "MM: Monoculos Modernos",
+    "address": {
+      "street": "Avenida Mistral",
+      "number": 345,
+      "floor": 45,
+      "city": "Albacete",
+      "postal code": "45009",
+      "country": "Spain"
+    },
+    "phone": "+349128393438",
+    "NIF": "ES R78654455",
+    "fax": "+349128393438"
+  }
+}]

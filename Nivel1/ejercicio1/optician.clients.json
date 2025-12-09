@@ -1,0 +1,55 @@
+[{
+  "_id": "C001",
+  "name": "Blanca",
+  "surname": "Barbate",
+  "address": {
+    "street": "Avenida Gaudi",
+    "number": 24,
+    "floor": 4,
+    "door": "C",
+    "city": "Barcelona",
+    "postal_code": "08032",
+    "country": "Spain"
+  },
+  "phone": "+34666789987",
+  "email": "Blaba@hotmail.mail",
+  "registration_date": "2025-03-12",
+  "recommended_by": null,
+  "purchases": [
+    {
+      "timestamp": "2025-03-12T15:43:12Z",
+      "employee_id": "E001",
+      "glasses": {
+        "brand": "Ray-Ban",
+        "price": 127,
+        "supplier_id": "S001",
+        "color lense L": "transparent",
+        "color lense R": "transparent",
+        "frame color": "silver",
+        "frame type": "metal",
+        "prescription lense L": "2.3",
+        "prescription lense R": "2",
+        "glasses id": "G001"
+      }
+    }
+  ]
+},
+{
+  "_id": "C002",
+  "name": "Jon",
+  "surname": "Brown",
+  "address": {
+    "street": "Calle Kalea",
+    "number": 33,
+    "floor": 2,
+    "door": "b",
+    "city": "Badalona",
+    "postal_code": "08888",
+    "country": "Spain"
+  },
+  "phone": "+34696996669",
+  "email": "JonBrownInd@iotxikibatzen.eus",
+  "registration_date": "2025-06-29",
+  "recommended_by": "C001",
+  "purchases": []
+}]
